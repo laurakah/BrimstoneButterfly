@@ -1,0 +1,18 @@
+[{"title": "Intro", 
+"text": "Das ist die Einleitung.", 
+"choices": 
+	[{"choiceKey": "a", "choiceValue": "Lies die erste Akte."}]
+},
+
+{"title": "Eins", 
+"text": "Das ist die Einleitung.", 
+"choices": 
+	[{"choiceKey": "a", "choiceValue": "Lies die erste Akte."},
+	{"choiceKey": "b", "choiceValue": "Lies die zweite Akte."}]
+},
+
+{"title": "Zwei", 
+"text": "Das ist die Einleitung.", 
+"choices": 
+	[{"choiceKey": "a", "choiceValue": "Lies die erste Akte."}]
+}]
