@@ -26,9 +26,10 @@ class Game():
 		print "\033c"
 		
 	def readUserInput(self, step):
-		userInput = raw_input("Was willst du tun? ").lower()
+		prompt = step.getPrompt()
+		userInput = raw_input(prompt).lower()
 		while not (userInput in step.getChoiceKeys()):
-			userInput = raw_input("Was willst du tun? ").lower()
+			userInput = raw_input(prompt).lower()
 		return userInput
 		
 	

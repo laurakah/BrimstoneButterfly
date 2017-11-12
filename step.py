@@ -6,15 +6,16 @@ class Step():
 		self.data = data
 		self.txt = self.buildTxt(self.data)
 		self.keys = self.buildChoiceKeys(self.data)
+		self.prompts = self.buildPrompt(self.data)
 		
 	def buildTxt(self, data):
 		txt = ""
-		txt += "%s\n" % data["title"]
+		txt += "%s\n" % str(data["title"])
 		txt += "\n"
-		txt += "%s\n" % data["text"]
+		txt += "%s\n" % str(data["text"])
 		txt += "\n"
 		for choice in data["choices"]:
-			txt += "%s: %s\n" % (choice["choiceKey"], choice["choiceValue"])
+			txt += "%s: %s\n" % (str(choice["choiceKey"]), str(choice["choiceValue"]))
 		return txt
 		
 	def buildChoiceKeys(self, data):
@@ -31,6 +32,15 @@ class Step():
 			if key != choice["choiceKey"]:
 				continue
 			return choice["choiceValue"]
+			
+	def buildPrompt(self, data):
+		prompts = ""
+		prompts += str(data["prompt"])
+		prompts += " "
+		return prompts
+		
+	def getPrompt(self):
+		return self.prompts
 		
 	def __str__(self):
 		return self.txt
