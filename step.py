@@ -7,6 +7,7 @@ class Step():
 		self.txt = self.buildTxt(self.data)
 		self.keys = self.buildChoiceKeys(self.data)
 		self.prompts = self.buildPrompt(self.data)
+		self.reportState = self.buildReportStates(self.data)
 		
 	def buildTxt(self, data):
 		txt = ""
@@ -41,6 +42,15 @@ class Step():
 		
 	def getPrompt(self):
 		return self.prompts
+		
+	def buildReportStates(self, data):
+		if (data["report"] == u"yes"):
+			return True
+		else:
+			return False
+		
+	def getReportState(self):
+		return self.reportState
 		
 	def __str__(self):
 		return self.txt
