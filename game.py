@@ -18,7 +18,7 @@ class Game():
 			for step in self.steps:
 				self._clear()
 				print step
-				userInput = self.readUserInput(step.getPrompt(), step.getChoiceKeys())
+				userInput = self._readUserInput(step.getPrompt(), step.getChoiceKeys())
 				if step.getReportState() == True:
 					self.answers.append({"title": step.data["title"], "input": step.getChoiceValue(userInput)})
 			self._clear()
@@ -27,14 +27,15 @@ class Game():
 			print "Bist du zufrieden mit deinem Bericht und moechtest ihn beim Vorsitzenden der Untersuchungskommission vorlegen?\n"
 			print "a Ja, ich moechte meinen Bericht abschliessen."
 			print "b Nein, ich moechte meinen Bericht bearbeiten."
-			if self.readUserInput("Wie entscheidest du dich? ", ["a", "b"]) == "a":
+			if self._readUserInput("Wie entscheidest du dich? ", ["a", "b"]) == "a":
 				finished = True
+		self._clear()
 		print "\n\nDer Vorsitzende bedankt sich und teilt dir mit, dass dein Bericht von der Bundesregierung als Verschlusssache deklariert wurde. Damit ist er bis 2072 unter Verschluss. Er raet dir, diesen Bericht so schnell wie moeglich zu vergessen und nie wieder darueber zu sprechen.\n\n"				
 			
 	def _clear(self):
 		print "\033c"
 		
-	def readUserInput(self, prompt, choiceKeys):
+	def _readUserInput(self, prompt, choiceKeys):
 		userInput = raw_input(prompt).lower()
 		while not (userInput in choiceKeys):
 			userInput = raw_input(prompt).lower()

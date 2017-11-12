@@ -1,5 +1,13 @@
-[{"title": "Prolog", 
-"text": "Dein Name ist Jerzy Montag. \nDu bist Sonderermittler fuer Die Gruenen im Parlamentarischen Untersuchungsausschuss zur rechten Terrorzelle NSU. \nDeine Aufgabe ist es, den vermeintlichen Selbstmord Uwe Mundlos und Uwe Boehnhardts zu rekonstruieren. \nDu suchst in deinen Unterlagen nach deinen bisherigen Notizen zum letzten Tag des NSU-Trios...", 
+[{"title": "Disclaimer", 
+"text": "Die hier dargestellten Ereignisse, Aussagen und Vermutungen erheben keinerlei Anspruch auf Richtigkeit. Parallelen zu lebenden oder toten Personen sind rein zufaellig.", 
+"choices": 
+	[{"choiceKey": "a", "choiceValue": "Ich habe verstanden."}],
+"prompt": "Druecke a, um das Spiel zu beginnen.",
+"report": "no"
+},
+
+{"title": "Prolog", 
+"text": "Dein Name ist Jerry Dienstag. \nDu bist Sonderermittler fuer Die Gruenen im Parlamentarischen Untersuchungsausschuss zur rechten Terrorzelle NSU. \nDeine Aufgabe ist es, den vermeintlichen Selbstmord Uwe Mutlos und Uwe Bohnhats zu rekonstruieren. \nDu suchst in deinen Unterlagen nach deinen bisherigen Notizen zum letzten Tag des NSU-Trios...", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Verschaffe dir einen Ueberblick ueber deine bisherigen Informationen."}],
 "prompt": "Druecke a, um zu beginnen.",
@@ -7,7 +15,7 @@
 },
 
 {"title": "Der letzte Tag", 
-"text": "Am 4. November 2011 gegen 9:30 Uhr ueberfielen Mundlos und Boehnhardt maskiert die Wartburg-Sparkasse in Eisenach und fluechteten auf Fahrraedern mit der Beute von ueber 70.000 Euro zu ihrem etwas entfernt abgestellten Wohnmobil. \nDie Polizei leitete umgehend eine Ringfahndung nach den Raeubern ein. \nAnwohnern war am Vortag ein weisses Wohnmobil mit einem Kfz-Kennzeichen aus dem Vogtlandkreis aufgefallen. \nEin Passant beobachtete am Morgen auf einem Parkplatz nahe der Sparkasse, wie zwei Maenner ihre Fahrraeder in diesem Wohnmobil verstauten und informierte die Polizei. \nDiese fand das Wohnmobil in der Anliegerstrasse Am Schafrain im nahegelegenen Eisenacher Stadtteil Stregda. \nAls sich gegen 11.55 Uhr zwei Streifenpolizisten naeherten, hoerten diese drei Knallgeraeusche aus dem Inneren. \nKurz darauf geriet das Wohnmobil in Brand, bis die herbeigerufene Feuerwehr die Flammen loeschte. \nDarin fand man die Leichen von Mundlos und Boehnhardt. \nMundlos wurde am 5. November anhand seiner Fingerabdruecke identifiziert, Boehnhardt am 6. November mit Hilfe von DNA-Material.", 
+"text": "Am 4. November 2011 gegen 9:30 Uhr ueberfielen Mutlos und Bohnhat maskiert die Wartburg-Sparkasse in Eisenach und fluechteten auf Fahrraedern mit der Beute von ueber 70.000 Euro zu ihrem etwas entfernt abgestellten Wohnmobil. \nDie Polizei leitete umgehend eine Ringfahndung nach den Raeubern ein. \nAnwohnern war am Vortag ein weisses Wohnmobil mit einem Kfz-Kennzeichen aus dem Vogtlandkreis aufgefallen. \nEin Passant beobachtete am Morgen auf einem Parkplatz nahe der Sparkasse, wie zwei Maenner ihre Fahrraeder in diesem Wohnmobil verstauten und informierte die Polizei. \nDiese fand das Wohnmobil in der Anliegerstrasse Am Schafrain im nahegelegenen Eisenacher Stadtteil Stregda. \nAls sich gegen 11.55 Uhr zwei Streifenpolizisten naeherten, hoerten diese drei Knallgeraeusche aus dem Inneren. \nKurz darauf geriet das Wohnmobil in Brand, bis die herbeigerufene Feuerwehr die Flammen loeschte. \nDarin fand man die Leichen von Mutlos und Bohnhat. \nMutlos wurde am 5. November anhand seiner Fingerabdruecke identifiziert, Bohnhat am 6. November mit Hilfe von DNA-Material.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Du saeufzst. Nun gut..."}],
 "prompt": "Fangen wir an.",
@@ -15,7 +23,7 @@
 },
 
 {"title": "Der zeitliche Ablauf", 
-"text": "Es wird angenommen, dass Mundlos und Boehnhardt nach ihrem Ueberfall im Wohnwagen die sich naehernden Polizisten bemerkten und auf diese mit einer Pleter 91 Maschinenpistole schossen. \nDies soll das erste Knallgeraeusch gewesen sein. \nNach dem ersten Schuss hatte die Waffe jedoch eine Ladehemmung, woraufhin die beiden Maenner beschlossen, sich das Leben zu nehmen. \nUwe Mundlos soll Uwe Boehnhardt durch einen Schuss mit einer Pumpgun in die linke Schlaefe getoetet, im Wohnwagen Feuer gelegt und danach sich selbst in den Kopf geschossen haben. \nDies verursachte angeblich Knallgeraeusch eins und zwei. \nDie Beamten vor Ort machten unterschiedliche Angaben zum zeitlichen Ablauf. \nLaut Beamten A lagen zwischen Knall eins und Knall zwei etwa 2 Sekunden, zwischen Knall zwei und Knall drei etwa 3 Sekunden. \nDer Beamte B sprach von etwa 5 Sekunden zwischen den ersten Knallgeraeuschen und etwa 15 Sekunden zwischen dem zweiten und dritten. \nDu denkst ueber den zeitlichen Ablauf der Ereignisse nach...", 
+"text": "Es wird angenommen, dass Mutlos und Bohnhat nach ihrem Ueberfall im Wohnwagen die sich naehernden Polizisten bemerkten und auf diese mit einer Pleter 91 Maschinenpistole schossen. \nDies soll das erste Knallgeraeusch gewesen sein. \nNach dem ersten Schuss hatte die Waffe jedoch eine Ladehemmung, woraufhin die beiden Maenner beschlossen, sich das Leben zu nehmen. \nUwe Mutlos soll Uwe Bohnhat durch einen Schuss mit einer Pumpgun in die linke Schlaefe getoetet, im Wohnwagen Feuer gelegt und danach sich selbst in den Kopf geschossen haben. \nDies verursachte angeblich Knallgeraeusch zwei und drei. \nDie Beamten vor Ort machten unterschiedliche Angaben zum zeitlichen Ablauf. \nLaut Beamten A lagen zwischen Knall eins und Knall zwei etwa 2 Sekunden, zwischen Knall zwei und Knall drei etwa 3 Sekunden. \nDer Beamte B sprach von etwa 5 Sekunden zwischen den ersten Knallgeraeuschen und etwa 15 Sekunden zwischen dem zweiten und dritten. \nDu denkst ueber den zeitlichen Ablauf der Ereignisse nach...", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die Zeit von etwa 20 Sekunden reicht aus, um auf die Polizisten zu schiessen, sich zur Selbsttoetung zu entschliessen, Feuer zu legen und sich zu erschiessen."},
 	{"choiceKey": "b", "choiceValue": "20 Sekunden sind eine zu kurze Zeitspanne, als dass die Theorie des BKA zu den Ereignissen im Wohnwagen stimmen koennte."}],
@@ -24,27 +32,27 @@
 },
 
 {"title": "Die fehlenden Fingerabdruecke", 
-"text": "Weder Uwe Mundlos noch Uwe Boehnhardt trugen zum Zeitpunkt ihres Auffindens im Wohnmobil Handschuhe. \nTrotzdem konnte auf der Tatwaffe kein einziger Fingerabdruck gesichert werden.", 
+"text": "Weder Uwe Mutlos noch Uwe Bohnhat trugen zum Zeitpunkt ihres Auffindens im Wohnmobil Handschuhe. \nTrotzdem konnte auf der Tatwaffe kein einziger Fingerabdruck gesichert werden.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Es handelt sich hier offenbar um einen Fehler der Spurensicherung. \nAuf der Tatwaffe haetten selbstverstaendlich Fingerabdruecke gesichert werden muessen."},
 	{"choiceKey": "b", "choiceValue": "Die Fingerabdruecke auf der Tatwaffe wurden eventuell durch das Feuer und die Loescharbeiten unkenntlich gemacht."},
-	{"choiceKey": "c", "choiceValue": "Weder Uwe Mundlos noch Uwe Boehnhardt hatten die Pumpgun jemals in der Hand. \nSie muss von einer dritten Person abgefeuert worden sein."}],
+	{"choiceKey": "c", "choiceValue": "Weder Uwe Mutlos noch Uwe Bohnhat hatten die Pumpgun jemals in der Hand. \nSie muss von einer dritten Person abgefeuert worden sein."}],
 "prompt": "Wie ist das Fehlen von Fingerabdruecken zu erklaeren?",
 "report": "yes"
 },
 
 {"title": "Die Tatwaffe", 
-"text": "Mundlos soll Boehnhardt und sich selbst mit einer Pumpgun erschossen haben. \nDiese Art Waffe muss nach jedem Schuss durchgeladen werden. \nErst dann faellt die Patronenhuelse heraus und es kann erneut abgedrueckt werden. \nAm Tatort im Wohnwagen wurden zwei Patronenhuelsen gefunden, die aus der Pumpgun stammen. \nDas BKA behauptet, die Waffe habe sich durch den Aufprall beim Fallen nach Mundlos Selbsttoetung selbst durchgeladen, wodurch die zweite Huelse ausgeworfen wurde.", 
+"text": "Mutlos soll Bohnhat und sich selbst mit einer Pumpgun erschossen haben. \nDiese Art Waffe muss nach jedem Schuss durchgeladen werden. \nErst dann faellt die Patronenhuelse heraus und es kann erneut abgedrueckt werden. \nAm Tatort im Wohnwagen wurden zwei Patronenhuelsen gefunden, die aus der Pumpgun stammen. \nDas BKA behauptet, die Waffe habe sich durch den Aufprall beim Fallen nach Mutlos Selbsttoetung selbst durchgeladen, wodurch die zweite Huelse ausgeworfen wurde.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die Theorie des BKA klingt plausibel. \nDer Schlitten der Tatwaffe hat sich beim Herunterfallen bewegt und die zweite Patronenhuelse ausgeworfen."},
-	{"choiceKey": "b", "choiceValue": "Die Tatwaffe wurde eventuell vor den Ereignissen im Wohnwagen schon einmal abgefeuert, aber nicht durchgeladen, sodass Mundlos die Pumpgun erst durchladen musste, bevor er Boehnhardt erschiessen konnte."},
+	{"choiceKey": "b", "choiceValue": "Die Tatwaffe wurde eventuell vor den Ereignissen im Wohnwagen schon einmal abgefeuert, aber nicht durchgeladen, sodass Mutlos die Pumpgun erst durchladen musste, bevor er Bohnhat erschiessen konnte."},
 	{"choiceKey": "c", "choiceValue": "Es muss eine dritte Person anwesend gewesen sein, die eventuell abgedrueckt, zumindest aber die Tatwaffe durchgeladen hat. \nTote koennen keine Waffen durchladen."}],
 "prompt": "Was haeltst du fuer die wahrscheinlichste Antwort?",
 "report": "yes"
 },
 
 {"title": "Das Motiv zur Selbsttoetung", 
-"text": "Mundlos und Boehnhardt sollen laut BKA die beiden sich naehernden Streifenpolizisten trotz Vorhaengen und Sichtschutz bemerkt und auf diese geschossen haben. \nObwohl im Wohnwagen ueber 20 verschiedene Schusswaffen nebst Munition gefunden wurden, beschliessen die beiden laut BKA innerhalb von etwa 5 Sekunden einen erweiterten Suizid, als die erste Waffe eine Ladehemmung hat, da sie sich in einer ausweglosen Lage waehnen und sich der Verhaftung entziehen wollen.", 
+"text": "Mutlos und Bohnhat sollen laut BKA die beiden sich naehernden Streifenpolizisten trotz Vorhaengen und Sichtschutz bemerkt und auf diese geschossen haben. \nObwohl im Wohnwagen ueber 20 verschiedene Schusswaffen nebst Munition gefunden wurden, beschliessen die beiden laut BKA innerhalb von etwa 5 Sekunden einen erweiterten Suizid, als die erste Waffe eine Ladehemmung hat, da sie sich in einer ausweglosen Lage waehnen und sich der Verhaftung entziehen wollen.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die Theorie des BKA klingt plausibel. \nNachdem die erste Waffe Ladehemmungen hatte, wussten die beiden, dass sie nicht mehr entkommen wuerden und beschlossen, sich selbst zu toeten."},
 	{"choiceKey": "b", "choiceValue": "Selbst wenn die beiden Terroristen sich in einer ausweglosen Lage gesehen haetten, haetten sie sich nicht in so kurzer Zeit zu einem so organisierten Suizid entschliessen koennen."},
@@ -56,7 +64,7 @@
 {"title": "Geraeusche im Wohnwagen", 
 "text": "Die beiden Polizeibeamten sagten aus, sie haetten noch vor dem ersten Knall Bewegungsgeraeusche aus dem Wohnwagen gehoert, als sie sich naeherten. \nSie beschrieben diese als die Art Geraeusch, das entsteht, wenn man Moebel verrueckt. \nDaraus schlossen sie, dass sich Menschen in Wohnwagen befanden.", 
 "choices": 
-	[{"choiceKey": "a", "choiceValue": "Es waere durchaus moeglich, dass Uwe Mundlos und Uwe Boehnhardt im Wohnwagen beim Eintreffen der Polizisten Moebel oder andere schwere Gegenstaende verschoben haben."},
+	[{"choiceKey": "a", "choiceValue": "Es waere durchaus moeglich, dass Uwe Mutlos und Uwe Bohnhat im Wohnwagen beim Eintreffen der Polizisten Moebel oder andere schwere Gegenstaende verschoben haben."},
 	{"choiceKey": "b", "choiceValue": "In einem Wohnwagen sind alle Moebel und anderen schweren Gegenstaende fest verschraubt, damit sie waehrend der Fahrt nicht umfallen koennen. \nDas von den Polizisten beschriebene Geraeusch muss also etwas anderes gewesen sein."},
 	{"choiceKey": "c", "choiceValue": "Die beiden Polizisten taeuschen sich in Bezug auf das Geraeusch. \nEs gab keine Geraeusche im Wohnwagen oder die Polizisten luegen."}],
 "prompt": "Was denkst du ueber die Bewegungsgeraeusche?",
@@ -64,21 +72,21 @@
 },
 
 {"title": "Die Brandstiftung", 
-"text": "Uwe Mundlos soll laut BKA nach dem Erschiessen von Boehnhardt auf dem Tisch im Aufenthaltsraum des Wohnwagens mit Hilfe von Papier und einem Feuerzeug ein Feuer gelegt haben, welches sich anschliessend schnell auf die Vorhaenge und Moebel im Wohnbereich ausbreitete. \nLaut Obduktionsbericht hatten allerdings weder Mundlos noch Boehnhardt Spuren von Kohlenstoffmonoxid in ihrer Lunge. \nDies haette jedoch der Fall sein muessen, haette einer von ihnen ein Feuer gelegt und dabei geatmet.", 
+"text": "Uwe Mutlos soll laut BKA nach dem Erschiessen von Bohnhat auf dem Tisch im Aufenthaltsraum des Wohnwagens mit Hilfe von Papier und einem Feuerzeug ein Feuer gelegt haben, welches sich anschliessend schnell auf die Vorhaenge und Moebel im Wohnbereich ausbreitete. \nLaut Obduktionsbericht hatten allerdings weder Mutlos noch Bohnhat Spuren von Kohlenstoffmonoxid in ihrer Lunge. \nDies haette jedoch der Fall sein muessen, haette einer von ihnen ein Feuer gelegt und dabei geatmet.", 
 "choices": 
-	[{"choiceKey": "a", "choiceValue": "Uwe Mundlos hat eindeutig ein Feuer gelegt, bevor er sich erschoss. \nBei der Obduktion muss ein Fehler passiert sein."},
-	{"choiceKey": "b", "choiceValue": "Das Feuer im Wohnwagen muss von einer dritten Person herbeigefuehrt worden sein, da Uwe Mundlos vor seinem Tod keinem Rauch ausgesetzt war."},
+	[{"choiceKey": "a", "choiceValue": "Uwe Mutlos hat eindeutig ein Feuer gelegt, bevor er sich erschoss. \nBei der Obduktion muss ein Fehler passiert sein."},
+	{"choiceKey": "b", "choiceValue": "Das Feuer im Wohnwagen muss von einer dritten Person herbeigefuehrt worden sein, da Uwe Mutlos vor seinem Tod keinem Rauch ausgesetzt war."},
 	{"choiceKey": "c", "choiceValue": "Das Feuer im Wohnwagen war ein Unfall und wurde von niemandem vorsaetzlich herbeigefuehrt."}],
 "prompt": "Was denkst du ueber den Brand im Wohnwagen?",
 "report": "yes"
 },
 
 {"title": "Die fehlende Gehirnmasse", 
-"text": "Laut gerichtsmedizinischem Gutachten und dem BKA starben beide Maenner durch einen Kopfschuss. \nDabei entstanden in beiden Faellen grosse Austrittswunden an den Koepfen der Terroristen. \nEin erwachsener Mensch verfuegt durchschnittlich ueber etwa 1400 Gramm Gehirnmasse. \nInsbesondere Mundlos, der sich selbst mit einem so genannten Kroenleinschuss getoetet haben soll, muss dabei grosse Mengen Gewebe, Hirn und Knochen hinter sich verteilt haben. \nLaut Obduktionsbericht verfuegte Mundlos Leiche noch ueber etwa 500 Gramm Resthirn. \nIm Wohnwagen waren jedoch nirgendwo Gewebereste oder Hirnmasse der Toten zu finden.", 
+"text": "Laut gerichtsmedizinischem Gutachten und dem BKA starben beide Maenner durch einen Kopfschuss. \nDabei entstanden in beiden Faellen grosse Austrittswunden an den Koepfen der Terroristen. \nEin erwachsener Mensch verfuegt durchschnittlich ueber etwa 1400 Gramm Gehirnmasse. \nInsbesondere Mutlos, der sich selbst mit einem so genannten Kroenleinschuss getoetet haben soll, muss dabei grosse Mengen Gewebe, Hirn und Knochen hinter sich verteilt haben. \nLaut Obduktionsbericht verfuegte Mutlos Leiche noch ueber etwa 500 Gramm Resthirn. \nIm Wohnwagen waren jedoch nirgendwo Gewebereste oder Hirnmasse der Toten zu finden.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die im Wohnwagen verteilte Hirnmasse der Toten wurde durch die Loescharbeiten der Feuerwehr weggewaschen, als diese das Wohnmobil loeschte."},
 	{"choiceKey": "b", "choiceValue": "Die fehlende Hirnmasse der beiden Toten koennte nach dem Abtransport des Wohnwagens vom Tatort vorsaetzlich entfernt worden sein."},
-	{"choiceKey": "c", "choiceValue": "Uwe Mundlos und Uwe Boehnhardt koennen nicht im Wohnwagen gestorben sein, da sonst ihre Hirnmasse am Tatort gefunden worden waere. \nSie muessen also an einem anderen Ort gestorben und spaeter im Wohnmobil platziert worden sein."}],
+	{"choiceKey": "c", "choiceValue": "Uwe Mutlos und Uwe Bohnhat koennen nicht im Wohnwagen gestorben sein, da sonst ihre Hirnmasse am Tatort gefunden worden waere. \nSie muessen also an einem anderen Ort gestorben und spaeter im Wohnmobil platziert worden sein."}],
 "prompt": "Was denkst du, wo die fehlenden Gewebespuren geblieben sind?",
 "report": "yes"
 },
@@ -106,7 +114,7 @@
 "text": "Auf den spaeter angefertigten Tatortfotos ist die Starthilfe, deren Stecker Herr Menzel bei Betreten des Wohnwagens zog, sowie deren Verpackung zu erkennen, welche offensichtlich aufbewahrt wurde. \nDie Starthilfe wurde unter dem Tisch im Wohnbereich gefunden und war mit mindestens einem Mobiltelefon ueber ein Kabel verbunden. \nEin weiteres Mobiltelefon wurde in der Naehe des Tisches aufgefunden. \nLaut BKA wurde die Starthilfe von den Maennern zum Laden der Mobiltelefone benutzt, obwohl diese nicht ueber einen direkten Anschluss beispielsweise in Form eines Zigarettenanzuenders verfuegte.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die elektronische Starthilfe im Inneren des Wohnwagens ist nicht ungewoehnlich. \nSie kann durchaus zum Laden von Mobiltelefonen benutzt worden sein."},
-	{"choiceKey": "b", "choiceValue": "In Anbetracht der fragwuerdigen zeitlichen Rekonstruktion der Ablaeufe im Wohnwagen sowie der fehlenden Fingerabdruecke auf der Tatwaffe, liegt der Schluss nahe, dass die Starthilfe in Kombination mit dem Mobiltelefon als eine Art Fernzuender verwendet worden sein koennte. \nDies wuerde ebenfalls den aufgedrehten Gasherd sowie die schnelle Brandentwicklung erklaeren. \nUwe Mundlos und Uwe Boehnhardt waren also eventuell beide schon tot, als das Feuer im Wohnwagen ausbrach."}],
+	{"choiceKey": "b", "choiceValue": "In Anbetracht der fragwuerdigen zeitlichen Rekonstruktion der Ablaeufe im Wohnwagen sowie der fehlenden Fingerabdruecke auf der Tatwaffe, liegt der Schluss nahe, dass die Starthilfe in Kombination mit dem Mobiltelefon als eine Art Fernzuender verwendet worden sein koennte. \nDies wuerde ebenfalls den aufgedrehten Gasherd sowie die schnelle Brandentwicklung erklaeren. \nUwe Mutlos und Uwe Bohnhat waren also eventuell beide schon tot, als das Feuer im Wohnwagen ausbrach."}],
 "prompt": "Was denkst du ueber die Funktion der elektronischen Starthilfe?",
 "report": "yes"
 },
@@ -115,8 +123,8 @@
 "text": "Mehrere Anwohner der Anliegerstrasse Am Schafrain, welche als Tatort des Selbstmordes gilt, sagten aus, sie haetten das Wohnmobil an diesem Tag schon ab 8.30 beziehungsweise 9.30 in der Strasse parken sehen. \nDies widerspricht der Aussage eines Rentners, welcher berichtet, er habe das Wohnmobil nach dem Bankueberfall am Tattag um kurz vor 10 Uhr auf einem Parkplatz nahe der Sparkasse gesehen und beobachtet, wie zwei junge Maenner in grosser Eile zwei Fahrraeder im Inneren verstauten, bevor sie mit dem Wohnwagen davon fuhren.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die Anwohner Am Schafrain irren sich in Bezug auf die Zeiten. \nDer Wohnwagen kann fruehestens ab etwa 10.30 in der Strasse geparkt haben."},
-	{"choiceKey": "b", "choiceValue": "Der Renter irrt sich. \nEr kann Uwe Mundlos und Uwe Boehnhardt nicht beobachtet haben, da sie um 10 Uhr bereits Am Schafrain parkten."},
-	{"choiceKey": "c", "choiceValue": "Beide Zeugenaussagen sind glaubwuerdig. \nEs existierten zwei Wohnwaegen. \nEiner parkte am 4. November ab etwa 8.30 Am Schafrain, ein zweiter wurde als Fluchtfahrzeug beim Bankueberfall um 9.30 benutzt. \nUwe Mundlos und Uwe Boehnhardt waren somit entweder die Bankrauber oder sie befanden sich die ganze Zeit ueber im Wohnwagen Am Schafrain."}],
+	{"choiceKey": "b", "choiceValue": "Der Renter irrt sich. \nEr kann Uwe Mutlos und Uwe Bohnhat nicht beobachtet haben, da sie um 10 Uhr bereits Am Schafrain parkten."},
+	{"choiceKey": "c", "choiceValue": "Beide Zeugenaussagen sind glaubwuerdig. \nEs existierten zwei Wohnwaegen. \nEiner parkte am 4. November ab etwa 8.30 Am Schafrain, ein zweiter wurde als Fluchtfahrzeug beim Bankueberfall um 9.30 benutzt. \nUwe Mutlos und Uwe Bohnhat waren somit entweder die Bankrauber oder sie befanden sich die ganze Zeit ueber im Wohnwagen Am Schafrain."}],
 "prompt": "Welche Zeugenaussagen haeltst du fuer glaubwuerdig?",
 "report": "yes"
 },
