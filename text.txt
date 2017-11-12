@@ -2,14 +2,16 @@
 "text": "Dein Name ist Jerzy Montag. \nDu bist Sonderermittler fuer Die Gruenen im Parlamentarischen Untersuchungsausschuss zur rechten Terrorzelle NSU. \nDeine Aufgabe ist es, den vermeintlichen Selbstmord Uwe Mundlos und Uwe Boehnhardts zu rekonstruieren. \nDu suchst in deinen Unterlagen nach deinen bisherigen Notizen zum letzten Tag des NSU-Trios...", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Verschaffe dir einen Ueberblick ueber deine bisherigen Informationen."}],
-"prompt": "Druecke a, um zu beginnen."
+"prompt": "Druecke a, um zu beginnen.",
+"report": "no"
 },
 
 {"title": "Der letzte Tag", 
 "text": "Am 4. November 2011 gegen 9:30 Uhr ueberfielen Mundlos und Boehnhardt maskiert die Wartburg-Sparkasse in Eisenach und fluechteten auf Fahrraedern mit der Beute von ueber 70.000 Euro zu ihrem etwas entfernt abgestellten Wohnmobil. \nDie Polizei leitete umgehend eine Ringfahndung nach den Raeubern ein. \nAnwohnern war am Vortag ein weisses Wohnmobil mit einem Kfz-Kennzeichen aus dem Vogtlandkreis aufgefallen. \nEin Passant beobachtete am Morgen auf einem Parkplatz nahe der Sparkasse, wie zwei Maenner ihre Fahrraeder in diesem Wohnmobil verstauten und informierte die Polizei. \nDiese fand das Wohnmobil in der Anliegerstrasse Am Schafrain im nahegelegenen Eisenacher Stadtteil Stregda. \nAls sich gegen 11.55 Uhr zwei Streifenpolizisten naeherten, hoerten diese drei Knallgeraeusche aus dem Inneren. \nKurz darauf geriet das Wohnmobil in Brand, bis die herbeigerufene Feuerwehr die Flammen loeschte. \nDarin fand man die Leichen von Mundlos und Boehnhardt. \nMundlos wurde am 5. November anhand seiner Fingerabdruecke identifiziert, Boehnhardt am 6. November mit Hilfe von DNA-Material.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Du saeufzst. Nun gut..."}],
-"prompt": "Fangen wir an."
+"prompt": "Fangen wir an.",
+"report": "no"
 },
 
 {"title": "Der zeitliche Ablauf", 
@@ -17,7 +19,8 @@
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die Zeit von etwa 20 Sekunden reicht aus, um auf die Polizisten zu schiessen, sich zur Selbsttoetung zu entschliessen, Feuer zu legen und sich zu erschiessen."},
 	{"choiceKey": "b", "choiceValue": "20 Sekunden sind eine zu kurze Zeitspanne, als dass die Theorie des BKA zu den Ereignissen im Wohnwagen stimmen koennte."}],
-"prompt": "Was haeltst du davon?"
+"prompt": "Was haeltst du davon?",
+"report": "yes"
 },
 
 {"title": "Die fehlenden Fingerabdruecke", 
@@ -26,7 +29,8 @@
 	[{"choiceKey": "a", "choiceValue": "Es handelt sich hier offenbar um einen Fehler der Spurensicherung. \nAuf der Tatwaffe haetten selbstverstaendlich Fingerabdruecke gesichert werden muessen."},
 	{"choiceKey": "b", "choiceValue": "Die Fingerabdruecke auf der Tatwaffe wurden eventuell durch das Feuer und die Loescharbeiten unkenntlich gemacht."},
 	{"choiceKey": "c", "choiceValue": "Weder Uwe Mundlos noch Uwe Boehnhardt hatten die Pumpgun jemals in der Hand. \nSie muss von einer dritten Person abgefeuert worden sein."}],
-"prompt": "Wie ist das Fehlen von Fingerabdruecken zu erklaeren?"
+"prompt": "Wie ist das Fehlen von Fingerabdruecken zu erklaeren?",
+"report": "yes"
 },
 
 {"title": "Die Tatwaffe", 
@@ -35,7 +39,8 @@
 	[{"choiceKey": "a", "choiceValue": "Die Theorie des BKA klingt plausibel. \nDer Schlitten der Tatwaffe hat sich beim Herunterfallen bewegt und die zweite Patronenhuelse ausgeworfen."},
 	{"choiceKey": "b", "choiceValue": "Die Tatwaffe wurde eventuell vor den Ereignissen im Wohnwagen schon einmal abgefeuert, aber nicht durchgeladen, sodass Mundlos die Pumpgun erst durchladen musste, bevor er Boehnhardt erschiessen konnte."},
 	{"choiceKey": "c", "choiceValue": "Es muss eine dritte Person anwesend gewesen sein, die eventuell abgedrueckt, zumindest aber die Tatwaffe durchgeladen hat. \nTote koennen keine Waffen durchladen."}],
-"prompt": "Was haeltst du fuer die wahrscheinlichste Antwort?"
+"prompt": "Was haeltst du fuer die wahrscheinlichste Antwort?",
+"report": "yes"
 },
 
 {"title": "Das Motiv zur Selbsttoetung", 
@@ -44,7 +49,8 @@
 	[{"choiceKey": "a", "choiceValue": "Die Theorie des BKA klingt plausibel. \nNachdem die erste Waffe Ladehemmungen hatte, wussten die beiden, dass sie nicht mehr entkommen wuerden und beschlossen, sich selbst zu toeten."},
 	{"choiceKey": "b", "choiceValue": "Selbst wenn die beiden Terroristen sich in einer ausweglosen Lage gesehen haetten, haetten sie sich nicht in so kurzer Zeit zu einem so organisierten Suizid entschliessen koennen."},
 	{"choiceKey": "c", "choiceValue": "Die beiden Terroristen haetten sich in dieser Situation hoechstwahrscheinlich nicht zu einem Selbstmord entschlossen. \nSie waren voller Adrenalin vom vorangegangenen Raubueberfall, hatten einen ausserordentlich gewaltbereiten Hintergrund und ihnen stand ein ganzes Waffenarsenal zur Verfuegung."}],
-"prompt": "Was denkst du ueber den Suizid?"
+"prompt": "Was denkst du ueber den Suizid?",
+"report": "yes"
 },
 
 {"title": "Geraeusche im Wohnwagen", 
@@ -53,7 +59,8 @@
 	[{"choiceKey": "a", "choiceValue": "Es waere durchaus moeglich, dass Uwe Mundlos und Uwe Boehnhardt im Wohnwagen beim Eintreffen der Polizisten Moebel oder andere schwere Gegenstaende verschoben haben."},
 	{"choiceKey": "b", "choiceValue": "In einem Wohnwagen sind alle Moebel und anderen schweren Gegenstaende fest verschraubt, damit sie waehrend der Fahrt nicht umfallen koennen. \nDas von den Polizisten beschriebene Geraeusch muss also etwas anderes gewesen sein."},
 	{"choiceKey": "c", "choiceValue": "Die beiden Polizisten taeuschen sich in Bezug auf das Geraeusch. \nEs gab keine Geraeusche im Wohnwagen oder die Polizisten luegen."}],
-"prompt": "Was denkst du ueber die Bewegungsgeraeusche?"
+"prompt": "Was denkst du ueber die Bewegungsgeraeusche?",
+"report": "yes"
 },
 
 {"title": "Die Brandstiftung", 
@@ -62,7 +69,8 @@
 	[{"choiceKey": "a", "choiceValue": "Uwe Mundlos hat eindeutig ein Feuer gelegt, bevor er sich erschoss. \nBei der Obduktion muss ein Fehler passiert sein."},
 	{"choiceKey": "b", "choiceValue": "Das Feuer im Wohnwagen muss von einer dritten Person herbeigefuehrt worden sein, da Uwe Mundlos vor seinem Tod keinem Rauch ausgesetzt war."},
 	{"choiceKey": "c", "choiceValue": "Das Feuer im Wohnwagen war ein Unfall und wurde von niemandem vorsaetzlich herbeigefuehrt."}],
-"prompt": "Was denkst du ueber den Brand im Wohnwagen?"
+"prompt": "Was denkst du ueber den Brand im Wohnwagen?",
+"report": "yes"
 },
 
 {"title": "Die fehlende Gehirnmasse", 
@@ -71,7 +79,8 @@
 	[{"choiceKey": "a", "choiceValue": "Die im Wohnwagen verteilte Hirnmasse der Toten wurde durch die Loescharbeiten der Feuerwehr weggewaschen, als diese das Wohnmobil loeschte."},
 	{"choiceKey": "b", "choiceValue": "Die fehlende Hirnmasse der beiden Toten koennte nach dem Abtransport des Wohnwagens vom Tatort vorsaetzlich entfernt worden sein."},
 	{"choiceKey": "c", "choiceValue": "Uwe Mundlos und Uwe Boehnhardt koennen nicht im Wohnwagen gestorben sein, da sonst ihre Hirnmasse am Tatort gefunden worden waere. \nSie muessen also an einem anderen Ort gestorben und spaeter im Wohnmobil platziert worden sein."}],
-"prompt": "Was denkst du, wo die fehlenden Gewebespuren geblieben sind?"
+"prompt": "Was denkst du, wo die fehlenden Gewebespuren geblieben sind?",
+"report": "yes"
 },
 
 {"title": "Die Beschlagnahmung der Tatortfotos", 
@@ -80,15 +89,26 @@
 	[{"choiceKey": "a", "choiceValue": "Der Kommissar hatte das Recht und die Pflicht, die Tatortaufnahmen zu sichern. \nDas Verschwinden der Daten ist ein ungluecklicher Zufall."},
 	{"choiceKey": "b", "choiceValue": "Menzel handelte hier offensichtlich im Auftrag einer hoeheren Stelle und war beauftragt worden, die Spurensicherung am Tatort zu sabotieren."},
 	{"choiceKey": "c", "choiceValue": "Kommissar Menzel handelte eigenverantwortlich und verletzte Richtlinien zur Spurensicherung und Tatortarbeit nur aufgrund der ausserordentlichen Stresssituation, in der er sich befand."}],
-"prompt": "Was haeltst du von der Beschlagnahmung der Tatortfotos?"
+"prompt": "Was haeltst du von der Beschlagnahmung der Tatortfotos?",
+"report": "yes"
 },
 
 {"title": "Der Abtransport des Wohnmobils vom Tatort", 
-"text": "Nachdem Kommissar Menzel die Tatortfotos beschlagnahmt hatte, betrat er den Wohnwagen und zog dort als erstes den Stecker einer elektronischen Starthilfe unter dem Tisch im Wohnbereich. \nAuch fand er im Brandschutt des Wohnwagens zielsicher die Dienstwaffe der im April 2007 in Heilbronn ermordeten Polizistin Michele Kiesewetter. \nDaraufhin ordnete er den Abtransport des gerade erst geloeschten Wohnwagens durch ein Abschleppunternehmen an, welches das Kraftfahrzeug in eine unbewachte Lagerhalle in der Naehe brachte, noch bevor Spurensicherung oder Gerichtsmedizin ihre Arbeit beenden konnten.", 
+"text": "Nachdem Kommissar Menzel die Tatortfotos beschlagnahmt hatte, betrat er den Wohnwagen und zog dort als erstes den Stecker einer elektronischen Starthilfe unter dem Tisch im Wohnbereich. \nAuch fand er im Brandschutt direkt auf dem Gasherd des Wohnwagens zielsicher die Dienstwaffe der im April 2007 in Heilbronn ermordeten Polizistin Michele Kiesewetter. \nDaraufhin ordnete er den Abtransport des gerade erst geloeschten Wohnwagens durch ein Abschleppunternehmen an, welches das Kraftfahrzeug in eine unbewachte Lagerhalle in der Naehe brachte, noch bevor Spurensicherung oder Gerichtsmedizin ihre Arbeit beenden konnten.", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Die Nichteinhaltung der Richtlinien zur Tatortsicherung durch Kommissar Menzel sind der Ausnahmesituation geschuldet, in der sich die Beamten nach der Aufdeckung des jahrelang gesuchten NSU befanden."},
 	{"choiceKey": "b", "choiceValue": "Die willkuerliche Zerstoerung des Tatortes durch Herrn Menzel ist nicht mit Nervositaet zu erklaeren. \nKommissar Menzel war ein erfahrener Polizist und hat hier durch sein Handeln absichtlich Spuren verwischt und die Spurensicherung behindert."}],
-"prompt": "Was denkst du ueber die Tatortarbeit von Kommissar Menzel?"
+"prompt": "Was denkst du ueber die Tatortarbeit von Kommissar Menzel?",
+"report": "yes"
+},
+
+{"title": "Die elektronische Starthilfe", 
+"text": "Auf den später angefertigten Tatortfotos ist die Starthilfe, deren Stecker Herr Menzel bei Betreten des Wohnwagens zog, sowie deren Verpackung zu erkennen, welche offensichtlich aufbewahrt wurde. \nDie Starthilfe wurde unter dem Tisch im Wohnbereich gefunden und war mit mindestens einem Mobiltelefon ueber ein Kabel verbunden. \nEin weiteres Mobiltelefon wurde in der Naehe des Tisches aufgefunden. \nLaut BKA wurde die Starthilfe von den Maennern zum Laden der Mobiltelefone benutzt, obwohl diese nicht ueber einen direkten Anschluss beispielsweise in Form eines Zigarettenanzuenders verfuegte.", 
+"choices": 
+	[{"choiceKey": "a", "choiceValue": "Die elektronische Starthilfe im Inneren des Wohnwagens ist nicht ungewoehnlich. \nSie kann durchaus zum Laden von Mobiltelefonen benutzt worden sein."},
+	{"choiceKey": "b", "choiceValue": "In Anbetracht der fragwuerdigen zeitlichen Rekonstruktion der Ablaeufe im Wohnwagen sowie der fehlenden Fingerabdruecke auf der Tatwaffe, liegt der Schluss nahe, dass die Starthilfe in Kombination mit dem Mobiltelefon als eine Art Fernzuender verwendet worden sein koennte. \nDies wuerde ebenfalls den aufgedrehten Gasherd sowie die schnelle Brandentwicklung erklaeren. \nUwe Mundlos und Uwe Boehnhardt waren also eventuell beide schon tot, als das Feuer im Wohnwagen ausbrach."}],
+"prompt": "Was denkst du ueber die Funktion der elektronischen Starthilfe?",
+"report": "yes"
 },
 
 {"title": "Die Zeugenaussagen der Anwohner", 
@@ -97,12 +117,14 @@
 	[{"choiceKey": "a", "choiceValue": "Die Anwohner Am Schafrain irren sich in Bezug auf die Zeiten. \nDer Wohnwagen kann fruehestens ab etwa 10.30 in der Strasse geparkt haben."},
 	{"choiceKey": "b", "choiceValue": "Der Renter irrt sich. \nEr kann Uwe Mundlos und Uwe Boehnhardt nicht beobachtet haben, da sie um 10 Uhr bereits Am Schafrain parkten."},
 	{"choiceKey": "c", "choiceValue": "Beide Zeugenaussagen sind glaubwuerdig. \nEs existierten zwei Wohnwaegen. \nEiner parkte am 4. November ab etwa 8.30 Am Schafrain, ein zweiter wurde als Fluchtfahrzeug beim Bankueberfall um 9.30 benutzt. \nUwe Mundlos und Uwe Boehnhardt waren somit entweder die Bankrauber oder sie befanden sich die ganze Zeit ueber im Wohnwagen Am Schafrain."}],
-"prompt": "Welche Zeugenaussagen haeltst du fuer glaubwuerdig?"
+"prompt": "Welche Zeugenaussagen haeltst du fuer glaubwuerdig?",
+"report": "yes"
 },
 
 {"title": "Dein Bericht", 
 "text": "Du saeufzst. Dir schwirrt der Kopf. So viele Widersprueche. Die Version des BKA erscheint dir nicht glaubwuerdig. Aber was waere die Alternative...? Eine riesige Vertuschungsaktion quer durch Verfassungsschutz, LKA und BKA? Das waere ja geradezu verstoerend! Du nimmst noch einen Schluck Kaffee und liest noch einmal deinen Bericht...", 
 "choices": 
 	[{"choiceKey": "a", "choiceValue": "Lies noch einmal deinen Abschlussbericht."}],
-"prompt": "Blaettere durch deine Zusammenfassung."
+"prompt": "Blaettere durch deine Zusammenfassung.",
+"report": "no"
 }]
