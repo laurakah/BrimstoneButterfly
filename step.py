@@ -15,7 +15,7 @@ class Step():
 		txt += "%s\n" % str(data["text"])
 		txt += "\n"
 		for choice in data["choices"]:
-			txt += "%s: %s\n" % (str(choice["choiceKey"]), str(choice["choiceValue"]))
+			txt += "%s: %s\n\n" % (str(choice["choiceKey"]), str(choice["choiceValue"]))
 		return txt
 		
 	def buildChoiceKeys(self, data):
