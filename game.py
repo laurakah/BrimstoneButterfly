@@ -22,6 +22,8 @@ class Game():
 				if step.getReportState() == True:
 					self.answers.append({"title": step.data["title"], "input": step.getChoiceValue(userInput)})
 			self._clear()
+			
+			#TODO: make this pretty!
 			for answer in self.answers:
 				print "%s:\n%s\n\n" % (answer["title"], answer["input"])
 			print "Bist du zufrieden mit deinem Bericht und moechtest ihn beim Vorsitzenden der Untersuchungskommission vorlegen?\n"
